@@ -2,6 +2,9 @@
 
 Relay is an offline-first cross-device inbox designed for rapid capture and retrieval of notes, code snippets, web bookmarks, and media attachments. Built with Expo (SDK 57), SQLite, and Supabase.
 
+Demo video-
+[https://drive.google.com/file/d/1r96KwfIGi4r1VmqFvLTLCQvYxXo7wy4A/view?usp=sharing](https://drive.google.com/file/d/1r96KwfIGi4r1VmqFvLTLCQvYxXo7wy4A/view?usp=sharing)
+
 ---
 
 ## Architecture Overview
